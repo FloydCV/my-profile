@@ -12,5 +12,9 @@
   justify-content: flex-end;
 }
 .nav-item {
-  padding-left: 10px;
+  padding: left 20px;
+  text-decoration: none;
+  border: 1px solid red;
+  padding: 3px;
+  margin: 5px;
 }
