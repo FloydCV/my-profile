@@ -50,6 +50,33 @@ body {
   padding-top: 20px;
 }
 
+.section1Project-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 20px;
+  border: 1px solid gray;
+  border-radius: 8px;
+}
+
+/* image sub container in project folder*/
+.project-subContainer1 {
+  align-items: center;
+  margin: 20px;
+  border: 1px solid gray;
+  border-radius: 8px;
+  padding: 20px 20px;
+  box-shadow: 10px 10px 5px grey;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.project-subContainer1 img {
+  width: 300px;
+}
+
 .project-container {
   display: flex;
   flex-direction: row;
@@ -93,6 +120,7 @@ body {
 /* About me paragraph*/
 .project-container .aboutMe-container p {
   padding: 20px;
+  text-align: center;
 }
 
 /* About me paragraph*/
