@@ -18,18 +18,22 @@
       <!--This is the main navigation area within the header that will display the nav links-->
       <nav class="nav-container">
         <div>
-          <a class="nav-item btn-primary" href="#">link01</a>
+          <a class="nav-item btn-primary" href="#aboutMe-container">About Me</a>
         </div>
 
-        <div><a class="nav-item btn-primary" href="#">link02</a></div>
+        <div>
+          <a class="nav-item btn-primary" href="#section1Project-container"
+            >Projects</a
+          >
+        </div>
 
-        <div><a class="nav-item btn-primary" href="#">link03</a></div>
+        <div><a class="nav-item btn-primary" href="#footer">Contact</a></div>
       </nav>
     </header>
 
     <!-- This is the main section of the webpage that will display the about me section and project details.-->
     <main>
-      <div class="aboutMe-container">
+      <div class="aboutMe-container" id="aboutMe-container">
         <div class="about-me-avatar">
           <img src="./assets/images/profile-image01.jpeg" />
         </div>
@@ -41,7 +45,8 @@
           consequatur cumque dolore, ratione at nostrum quia ab libero. Culpa
           laboriosam pariatur eveniet veritatis.
         </p>
-        <div>
+        <h2 class="h2">Skills</h2>
+        <div class="li">
           <li>HTML</li>
           <li>CSS</li>
           <li>Java Script</li>
@@ -53,7 +58,7 @@
 
       </section> -->
       <!--Flex project container 01 section displaying main portfolio project-->
-      <section class="section1Project-container">
+      <section class="section1Project-container" id="section1Project-container">
         <div class="project-subContainer1">
           <h2 class="h2">Project 1: Horiseon project</h2>
           <p class="p">commercial construction web coding</p>
@@ -87,6 +92,6 @@
     </main>
 
     <!--This is the main footer area that will display copyright and designed by info-->
-    <footer>footer</footer>
+    <footer class="footer" id="footer">footer</footer>
   </body>
 </html>
