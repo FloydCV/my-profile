@@ -72,9 +72,15 @@ body {
   flex-direction: column;
   flex-wrap: wrap;
 }
+.small-container-project {
+  height: 400px;
+  width: 100%;
+}
 
 .project-subContainer1 img {
-  width: 300px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .project-container {
@@ -86,7 +92,9 @@ body {
   border: 1px solid gray;
   border-radius: 8px;
 }
-
+.main-container-project {
+  height: 400px;
+}
 /* image sub container in project folder*/
 .project-subContainer {
   align-items: center;
@@ -95,8 +103,6 @@ body {
   border-radius: 8px;
   padding: 20px 20px;
   box-shadow: 10px 10px 5px grey;
-  display: flex;
-  flex-direction: column;
 }
 
 /* image  About Me container in project folder*/
@@ -132,6 +138,9 @@ body {
 .project-container img {
   width: 150px;
   padding: 5px;
+  width: 150px;
+  display: block;
+  margin: 0 auto;
 }
 
 .project-container h2 {
@@ -158,5 +167,6 @@ body {
     flex-direction: column;
     display: flex;
     align-items: center;
+    justify-content: center;
   }
 }
