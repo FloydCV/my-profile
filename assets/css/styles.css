@@ -82,7 +82,22 @@ body {
   border-radius: 8px;
   padding: 20px 20px;
   box-shadow: 10px 10px 5px grey;
-  align-items: center;
+  align-content: flex-start;
+}
+
+/* About me unordered list*/
+.project-container .aboutMe-container li {
+  font-weight: 600;
+}
+
+/* About me paragraph*/
+.project-container .aboutMe-container p {
+  padding: 20px;
+}
+
+/* About me paragraph*/
+.project-container .aboutMe-container h2 {
+  padding-bottom: 20px;
 }
 
 /* image container in project folder*/
