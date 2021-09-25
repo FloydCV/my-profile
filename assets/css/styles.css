@@ -97,7 +97,7 @@ body {
   height: 100%;
   object-fit: cover;
 }
-
+/*Main border around the list of projects*/
 .project-container {
   display: flex;
   flex-direction: row;
@@ -158,13 +158,23 @@ body {
   padding-bottom: 20px;
 }
 
-/* image container in project folder*/
+/* images container in project folder and portfolio of project in project section*/
 .project-container img {
-  width: 150px;
+  width: 50px;
   padding: 5px;
   width: 150px;
   display: block;
   margin: 0 auto;
+  transition-property: width;
+  transition-delay: 0.2s;
+  transition-duration: 0.4s;
+  transition-timing-function: ease-in;
+}
+
+/*Ttransation css style to images*/
+.project-container img:hover {
+  width: 200px;
+  opacity: 50%;
 }
 
 .project-container h3 {
