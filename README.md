@@ -58,7 +58,18 @@
 - []() Prettier
 - []() GitHub
 
-<!-- GETTING STARTED -->
+### Skills teqniques applied
+
+README <br>
+index.html<br>
+assets<br>
+reset<br>
+
+flexbox<br>
+media queries<br>
+css variables<br>
+colour schemes<br>
+typography<br>
 
 ## Approach
 
@@ -72,31 +83,52 @@
 
 ### Screenshots
 
-<a
-              href="https://github.com/FloydCV/my-profile#readme/"
-              target="_blank"
-              ><img
-                src="./assets/read-me-folder/my-profile-ss02.png"
-                alt="grey layout with header, nav, section and footer"
-                title="initial layout"
-            /></a>
+1. Initial Layout showing Samantics during the start of the project. `Click on image to view readme file on GitHub`
+   <a
+                 href="https://github.com/FloydCV/my-profile#readme/"
+                 target="_blank"
+                 ><img
+                   src="./assets/read-me-folder/my-profile-ss02.png"
+                   alt="grey layout with header, nav, section and footer"
+                   title="initial layout"
+               /></a>
+
+2. Initial Layout with mobile view showing Samantics during the start of the project. This includes a second layer of details displaying project cards, image placeholders etc `Click on image to view readme file on GitHub`
+   <a
+                  href="https://github.com/FloydCV/my-profile#readme/"
+                  target="_blank"
+                  ><img
+                    src="./assets/read-me-folder/my-profile-ss01.png"
+                    alt="grey layout with header, nav, section and footer"
+                    title="initial layout"
+                /></a>
+
+3. Final Layout of profile. The layout went through a series of changes during development which is documented on the commits and push repositry updates on GitHub `Click on image to view readme file on GitHub`
+   <a
+                  href="https://github.com/FloydCV/my-profile#readme/"
+                  target="_blank"
+                  ><img
+                    src="./assets/read-me-folder/my-profile-ss03.png"
+                    alt="grey layout with header, nav, section and footer"
+                    title="initial layout"
+                /></a>
 
 ### Prerequisites
 
-It is reccmended that you download google chrome in order to view this website
+To view the files it is recomended that you download google chrome in order to view this website. The application was designed using google chrome as the maim browser agent.
 
-- Googole Chrome
+- Google Chrome
   ```sh
   install google chrome browser
   ```
 
-### Installation
+### Installation of software
 
 1. Download chrome advised for viewing
    ```sh
    https://www.google.co.uk/chrome/?brand=CHBD&brand=CHBD&gclid=Cj0KCQjwkbuKBhDRARIsAALysV4uMMaBVnzVGAtQNXwE52df3jsGbdIk79irX3FO84PgN3nfOL5rWJUaAlaMEALw_wcB&gclsrc=aw.ds
    ```
-2. Install NPM packages
+2. Chrome install operating systems
    ```sh
    windows mac linux
    ```
@@ -131,13 +163,13 @@ Contributions are what make the open source community such an amazing place to l
 
 ## License
 
-Note distributed under the MIT License. See `LICENSE` for more information.
+This project is note distributed under License.
 
 <!-- CONTACT -->
 
 ## Contact
 
-Your Name - Floyd Stewart [@Linked_in](https://www.linkedin.com/in/floyd-stewart-cv-96582521a/) - Email: <a href="mailto:floydsstewartcv@gmail.com">Send mail</a>
+Yame - Floyd Stewart [@Linked_in](https://www.linkedin.com/in/floyd-stewart-cv-96582521a/) - Email: <a href="mailto:floydsstewartcv@gmail.com">Send mail</a>
 
 Project Link: [https://github.com/FloydCV/my-profile](https://github.com/FloydCV/my-profile)
 
