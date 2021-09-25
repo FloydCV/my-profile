@@ -1,13 +1,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="./assets/images/profile-image01.jpeg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">02 Advanced CSS: Portfolio</h3>
+  <h3 align="center">My Profile by Floyd Stewart </h3>
 
   <p align="center">
-    project_description
+    02 Advanced CSS: Portfolio Homework
     <br />
     <a href="https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/blob/master/src/class-content/02-Advanced-CSS/02-Homework/README.md"><strong>View Homework Instruction »</strong></a>
     <br />
@@ -31,7 +31,7 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#prerequisites">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -70,9 +70,20 @@
    - Build css style sheet
    - Create reset sheet
 
+### Screenshots
+
+<a
+              href="https://github.com/FloydCV/my-profile#readme/"
+              target="_blank"
+              ><img
+                src="./assets/read-me-folder/my-profile-ss02.png"
+                alt="grey layout with header, nav, section and footer"
+                title="initial layout"
+            /></a>
+
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+It is reccmended that you download google chrome in order to view this website
 
 - Googole Chrome
   ```sh
