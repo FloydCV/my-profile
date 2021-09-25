@@ -70,6 +70,7 @@ media queries<br>
 css variables<br>
 colour schemes<br>
 typography<br>
+fixed header <br>
 
 ## Approach
 
@@ -104,13 +105,27 @@ typography<br>
                 /></a>
 
 3. Final Layout of profile. The layout went through a series of changes during development which is documented on the commits and push repositry updates on GitHub `Click on image to view readme file on GitHub`
-   <a
+
+##### website view
+
+<a
                   href="https://github.com/FloydCV/my-profile#readme/"
                   target="_blank"
                   ><img
                     src="./assets/read-me-folder/my-profile-ss03.png"
                     alt="grey layout with header, nav, section and footer"
-                    title="initial layout"
+                    title="final web layout"
+                /></a>
+
+##### mobile view
+
+<a
+                  href="https://github.com/FloydCV/my-profile#readme/"
+                  target="_blank"
+                  ><img
+                    src="./assets/read-me-folder/my-profile-ss04.png"
+                    alt="grey layout with header, nav, section and footer"
+                    title="mobile view layout"
                 /></a>
 
 ### Prerequisites
