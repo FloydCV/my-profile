@@ -148,7 +148,7 @@ To view the files it is recomended that you download google chrome in order to v
    windows mac linux
    ```
 
-<!-- USAGE EXAMPLES -->
+<!-- USAGE AND PURPOSE  -->
 
 ## Usage
 

@@ -11,7 +11,7 @@ body {
   border: 0px solid grey;
   padding: 15px;
   margin: 0px;
-
+  background-image: linear-gradient(to bottom right, rgb(236, 236, 236), white);
   border-radius: 8px;
   display: flex;
   flex-direction: row;
@@ -192,6 +192,7 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  background-image: linear-gradient(to bottom right, rgb(236, 236, 236), white);
 
   opacity: 0.9;
 }
@@ -215,7 +216,7 @@ body {
   }
 
   .h1-header-title {
-    padding: 120px;
+    padding: 135px;
   }
 
   .footer {
