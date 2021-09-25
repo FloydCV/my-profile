@@ -192,7 +192,7 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  width: 100%;
+
   opacity: 0.9;
 }
 
@@ -216,5 +216,12 @@ body {
 
   .h1-header-title {
     padding: 120px;
+  }
+
+  .footer {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 }
