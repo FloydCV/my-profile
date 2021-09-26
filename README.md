@@ -60,7 +60,7 @@
 
 ### Skills and techniques implemented
 
-- []() README <br>
+- []() readme <br>
 - []() index.html<br>
 - []() assets<br>
 - []() reset<br>
