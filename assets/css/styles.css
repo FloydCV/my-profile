@@ -39,9 +39,10 @@ body {
   min-width: 200px;
 }
 
+/*Nav button text/font*/
 .btn-primary {
   background-color: rgb(184, 183, 183);
-  color: var(--silver-sand);
+  color: var(--dark-jungle-green);
 }
 
 .btn-primary:hover {
@@ -182,7 +183,7 @@ body {
 }
 
 .project-container h3 {
-  color: var(--silver-sand);
+  color: var(--dark-jungle-green);
   text-shadow: 1px 1px 2px #000000;
   padding: 10px;
   text-align: center;
