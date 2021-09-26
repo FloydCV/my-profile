@@ -171,7 +171,7 @@ body {
   transition-timing-function: ease-in;
 }
 
-/*Ttransation css style to images*/
+/*Translations css style to images*/
 .project-container img:hover {
   width: 200px;
   opacity: 50%;
