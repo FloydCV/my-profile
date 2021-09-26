@@ -58,19 +58,20 @@
 - []() Prettier
 - []() GitHub
 
-### Skills teqniques applied
+### Skills and techniques implemented
 
-README <br>
-index.html<br>
-assets<br>
-reset<br>
+- []() README <br>
+- []() index.html<br>
+- []() assets<br>
+- []() reset<br>
 
-flexbox<br>
-media queries<br>
-css variables<br>
-colour schemes<br>
-typography<br>
-fixed header <br>
+- []() flexbox<br>
+- []() media queries<br>
+- []() css variables<br>
+- []() colour schemes<br>
+- []() typography<br>
+- []() fixed header <br>
+- []() transitions<br>
 
 ## Approach
 
@@ -152,7 +153,7 @@ To view the files it is recomended that you download google chrome in order to v
 
 ## Usage
 
-With the rising demand for web development skills across industries, the profile is designed to provide potential employers with the knowledge they need to decide whether they should recruit the potential candidate after 24 weeks of coding.
+With the rising demand for web development skills across industries, the profile is designed and will be used to provide potential employers with the knowledge they need to decide whether they should recruit the potential candidate after 24 weeks of coding.
 
 _For more examples, please refer to the [Documentation about ](https://bootcamp.birmingham.ac.uk/coding/)_
 
