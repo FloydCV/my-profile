@@ -1,14 +1,18 @@
 body {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  min-height: 100vh;
+  background-color: var(--baby-powder);
+
+  }
 }
 
 .header {
-  border: px solid black;
+  border: px solid var(--dark-jungle-green);
 }
 
 .nav-container {
-  border: 0px solid grey;
+  border: 0px solid var(--silver-sand);
   padding: 15px;
   margin: 0px;
   background-image: linear-gradient(to bottom right, rgb(236, 236, 236), white);
@@ -29,7 +33,7 @@ body {
   margin: 5px;
 
   font-weight: 600;
-  border: 1px solid gray;
+  border: 1px solid var(--silver-sand);
   border-radius: 8px;
   background-color: whitesmoke;
   min-width: 200px;
@@ -37,7 +41,7 @@ body {
 
 .btn-primary {
   background-color: rgb(184, 183, 183);
-  color: grey;
+  color: var(--silver-sand);
 }
 
 .btn-primary:hover {
@@ -56,7 +60,7 @@ body {
 
 /* Header 2 class*/
 .h2 {
-  color: grey;
+  color: var(--silver-sand);
   text-shadow: 1px 1px 2px #000000;
   padding: 10px;
 }
@@ -82,7 +86,7 @@ body {
   border: 1px solid gray;
   border-radius: 8px;
   padding: 20px 20px;
-  box-shadow: 10px 10px 5px grey;
+  box-shadow: 10px 10px 5px var(--silver-sand);
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
@@ -119,7 +123,7 @@ body {
   border: 1px solid gray;
   border-radius: 8px;
   padding: 20px 20px;
-  box-shadow: 10px 10px 5px grey;
+  box-shadow: 10px 10px 5px var(--silver-sand);
   width: 275px;
 }
 
@@ -132,7 +136,7 @@ body {
   border: 1px solid gray;
   border-radius: 8px;
   padding: 20px 20px;
-  box-shadow: 10px 10px 5px grey;
+  box-shadow: 10px 10px 5px var(--silver-sand);
   align-content: flex-start;
 }
 
@@ -178,7 +182,7 @@ body {
 }
 
 .project-container h3 {
-  color: grey;
+  color: var(--silver-sand);
   text-shadow: 1px 1px 2px #000000;
   padding: 10px;
   text-align: center;
@@ -195,7 +199,7 @@ body {
 }
 
 .footer {
-  border: 1px solid grey;
+  border: 1px solid var(--silver-sand);
   padding: 10px;
   margin: 20px;
   border-radius: 8px;
